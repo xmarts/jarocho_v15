@@ -17,3 +17,8 @@
 	path = xmarts/branch
 	url = git@github.com:xmarts/branch.git
 	branch = 15.0
+
+[submodule "xmarts/account-multi-pay"]
+	path = xmarts/account-multi-pay
+	url = git@github.com:xmarts/account-multi-pay.git
+	branch = 15.0
