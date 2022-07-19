@@ -2,3 +2,8 @@
 	path = xmarts/fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
 	branch = 15.0-jarochito
+
+[submodule "xmarts/fields_functions_jarochito"]
+	path = xmarts/fields_functions_jarochito
+	url = git@github.com:xmarts/fields_functions_jarochito.git
+	branch = 15.0
