@@ -25,3 +25,6 @@
 [submodule "branch-accounting-report"]
 	path = branch-accounting-report
 	url = git@github.com:xmarts/branch-accounting-report.git
+[submodule "xmarts_financial_factor"]
+	path = xmarts_financial_factor
+	url = git@github.com:xmarts/xmarts_financial_factor.git
